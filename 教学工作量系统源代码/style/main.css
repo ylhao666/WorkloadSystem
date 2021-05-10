@@ -1,0 +1,55 @@
+#main {
+	background-color:#9ddeff;
+	width:770px;
+	border: 5px solid white;
+	padding-bottom:10px;
+	/*height:370px;*/
+}
+#userMessage {
+	line-height:18px;
+	width:770px;
+	border-width: 0px 0px 5px 0px;
+	border-style: solid;
+	border-color: white;
+}
+/*mainContent*/
+#mainContent {
+	width:770px;
+}
+#userMessage01,
+#userMessage02 {
+	width:300px;
+	float:left;
+}
+#userMessage03 {
+    width:170px;
+    text-align:center;
+    float:left;
+}
+
+#userOperation li {
+	float:right;
+	list-style-type: none;
+	text-align: center;
+}
+#userOperation a {
+	color: black;
+	text-decoration:none;
+	display: block;
+	width:100px;
+}
+#userOperation a:hover{
+	font-weight:bold;
+	color: white;
+}
+
+/*Ê×Ò³*/
+#indexContent {
+	text-align: center;
+	width:770px;
+	font-size: 36px;
+	font-style: italic;
+	line-height: 40px;
+	font-weight: bold;
+	padding-top:130px;
+}

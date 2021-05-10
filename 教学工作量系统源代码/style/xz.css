@@ -1,0 +1,75 @@
+body {
+	font-size: 12px;
+	margin:0;
+	padding:0;
+	font-family:"ËÎÌו", sans-serif;
+	color:black;
+	text-align:center;
+	background-color: #9ddeff;
+}
+#box {
+	text-align:left;
+	width:610px;
+	background-color:#9ddeff;
+	border: 5px solid white;
+	margin:0 auto;
+}
+#top {
+	padding-top:5px;
+	padding-bottom: 5px;
+	text-align:center;
+	border-bottom: 2px dashed #ff9900;
+}
+#main {
+    float:left;
+	padding:5px;
+	border-bottom: 2px dashed #ff9900;
+}
+#buttom {
+    width:600px;
+	padding-top:5px;
+	padding-bottom: 5px;
+	text-align:center;
+	bottom:auto;
+}
+.cenJsxz {
+	padding:5px;
+	text-align:center;
+}
+.inputStyle {
+	width:100px;
+	text-align:left;
+	height:20px;
+	line-height:20px;
+	border:0;
+}
+.inputButton {
+	text-align:center;
+	width:60px;
+	height:20px;
+}
+
+#treeLeft {
+	float:left;
+	width:250px;
+	height:200px;
+	border:1px solid #ff9900;
+	text-align: justify;
+	overflow:auto;
+}
+#treeMiddle {
+	float:left;
+	width:80px;
+	text-align:center;
+	line-height:50px;
+	text-decoration: none;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+#treeRight {
+	float:left;
+	width:250px;
+	height:200px;
+	border:1px solid #ff9900;
+	text-align: justify;
+}

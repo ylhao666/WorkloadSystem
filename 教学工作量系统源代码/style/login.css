@@ -1,0 +1,59 @@
+﻿* {
+	font-size: 12px;
+	margin:0;
+	padding:0;
+}
+body {
+	font-family:"宋体", sans-serif;
+	color:black;
+	text-align:center;
+	background-color: #9ddeff;
+	padding-top:30px;
+	border:0;
+}
+#main {
+	width:780px;
+	height:500px;
+	background:white url(../images/login.jpg) no-repeat;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#box {
+	float:left;
+	width:540px;
+	height:200px;
+	margin-top: 229px;
+}
+#login {
+	float:right;
+	width:298px;
+	height:198px;
+	border: 1px dashed #000000;
+}
+#txtUserName,#txtUserPwd {
+	width:150px;
+	border: 1px solid black;
+	margin:1px 0;
+}
+
+.log{
+	font-size: 14px;
+	height: 45px;
+	font-weight: bold;
+	color: black;
+	text-decoration: none;
+}
+#logText{
+	font-size: 24px;
+	line-height: 63px;
+	font-weight: bold;
+	color: black;
+	text-decoration: none;
+}
+
+#btnAdmin, #brnTeacher {
+	margin-top:auto;
+	margin-bottom: auto;
+}

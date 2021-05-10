@@ -1,0 +1,42 @@
+﻿* {
+	font-size: 12px;
+	margin:0;
+	padding:0;
+	/*border:0;*/
+}
+a {
+	color:black;
+	text-decoration:none;
+}
+a:visited {
+	color: #999999;
+}
+a:hover {
+	color:#003399;
+	text-decoration:underline;
+}
+body {
+	font-family:"宋体", sans-serif;
+	color:black;
+	text-align:center;
+	background-color: #9ddeff;
+}
+#box {
+	text-align:left;
+	width:780px;
+	background-color:white;
+	margin:0 auto;
+}
+#logo {
+	width:780px;
+	height:125px;
+	background:url(../images/logo.jpg) no-repeat;
+}
+#footer{
+	width:780px;
+	height:2.5em;
+	font-size:12px;
+	line-height: 2.5em;
+	text-align: center;
+	bottom:auto;
+}

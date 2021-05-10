@@ -1,0 +1,82 @@
+from {
+	font-size:12px;
+	width:770px;
+}
+#techMsg {
+	text-align:center;
+	width:770px;
+}
+#techWork {
+	text-align:center;
+	width:770px;
+}
+#main {
+	height:425px;
+}
+
+fieldset {
+	width:700px;
+	border:2px solid #ff9900;
+	text-align:center;
+	color:black;
+	font-size:12px;
+	padding:5px;
+}
+legend {
+	width:100px;
+	text-align:center;
+	font-size:14px;
+	line-height:20px;
+	color:black;
+	font-weight: bold;
+}
+label {
+	width:20px;
+	line-height:20px;
+}
+input,
+#selJszc,
+#selJszw,
+#selJsxb,
+#selSsyx {
+	width:150px;
+	text-align:left;
+	height:20px;
+	line-height:20px;
+}
+.bord{
+	border:0;
+}
+#techWorkAll,
+#techWorkKcgzl,
+#techWorkKcsjgzl,
+#techWorkSxgzl,
+#techWorkBysjgzl {
+	text-align:left;
+	width:660px;
+}
+h1 {
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 25px;
+	color: black;
+	border-bottom: 2px dashed #f90;
+	height: 25px;
+	width:660px;
+	padding-top: 10px;
+}
+/*teacherChangePwd*/
+.btn {
+	text-align:center;
+	width:80px;
+	height:22px;
+}
+
+#frmTechChagPwd {
+	text-align:center;
+}
+/*pageJsGzlxx*/
+#closs {
+	text-align:center;
+	padding-top:10px;
+}

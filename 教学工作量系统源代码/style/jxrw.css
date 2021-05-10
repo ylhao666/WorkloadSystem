@@ -1,0 +1,87 @@
+form {
+	width:770px;
+}
+label {
+	width:20px;
+	line-height:20px;
+}
+form div {
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.borderTop {
+	border-top:2px dashed #ff9900;
+}
+.borderBottom {
+	border-bottom:2px dashed #ff9900;
+}
+.inputStyle {
+	width:150px;
+	text-align:left;
+	height:20px;
+	line-height:20px;
+	border:0;
+}
+.inputButton {
+	text-align:center;
+	width:80px;
+	height:20px;
+}
+#showKcrw,
+#msgKcrw,
+#showKcsjrw,
+#msgKcsjrw,
+#showSxrw,
+#msgSxrw,
+#showBysjrw,
+#msgBysjrw {
+	text-align:center;
+	width:770px;
+}
+#magOtherKcsj {
+	text-align:left;
+	padding-left:102px;
+	width:668px;
+}
+.msgWidth {
+	text-align:left;
+	padding-left:110px;
+	width:660px;
+}
+/**/
+
+#mesgJxbLeft {
+	float:left;
+	width:160px;
+	padding:5px;
+}
+#mesgJxbRight {
+	float:left;
+	width:588px;
+	padding:5px;
+	border-left:2px dashed #ff9900;
+	text-align: justify;
+}
+#treeLeft {
+	float:left;
+	width:248px;
+	height:150px;
+	border:1px solid #ff9900;
+	overflow: auto;
+}
+#treeMiddle {
+	float:left;
+	width:88px;
+	text-align:center;
+	line-height:50px;
+	text-decoration: none;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#treeRight {
+	float:left;
+	width:248px;
+	height:150px;
+	border:1px solid #ff9900;
+	text-align: justify;
+}

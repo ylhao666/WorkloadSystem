@@ -1,0 +1,135 @@
+/*管理员页面*/
+.mainContentWidth {
+	padding-top:5px;
+	width:770px;
+	text-align:center;
+	padding-bottom:5px;
+}
+.mainBorderTop {
+	border-top-width: 2px;
+	border-top-style: dashed;
+	border-top-color: #ff9900;
+}
+.mainBorderBottom {
+	border-bottom-width: 2px;
+	border-bottom-style: dashed;
+	border-bottom-color: #ff9900;
+}
+label {
+	width:20px;
+	line-height:20px;
+}
+.rectStyle {
+	width:150px;
+	text-align:left;
+	height:20px;
+	line-height:20px;
+	border:0;
+}
+.btn {
+	text-align:center;
+	width:80px;
+	height:20px;
+}
+.btn2 {
+    text-align:center;
+	width:100px;
+	height:20px;
+}
+#showCheckBox {
+	padding-left:570px;
+	width:200px;
+}
+#showMsgCzy {
+	width:760px;
+}
+/*--管理员页面--*/
+
+/*学年度设置*/
+.btnXndsz {
+	text-align:center;
+	width:150px;
+	height:20px;
+}
+fieldset {
+	width:700px;
+	border:2px solid #ff9900;
+	text-align:center;
+	color:black;
+	font-size:12px;
+	padding:5px;
+}
+legend {
+	width:100px;
+	text-align:center;
+	font-size:14px;
+	line-height:20px;
+	color:black;
+	font-weight: bold;
+}
+label {
+	width:20px;
+	line-height:20px;
+}
+/*学年度设置*/
+/*课程信息*/
+.red {
+	color:#FF0000;
+}
+#mesgKcxxInp,
+#mesgKcsjxxInp {
+	width:750px;
+	text-align:left;
+	padding-top:5px;
+	padding-left:20px;
+	padding-bottom:5px;
+}
+.kcsjBorderTop {
+	border-top-width: 1px;
+	border-top-style: dashed;
+	border-top-color: #666666;
+}
+/*课程信息*/
+/*专业信息*/
+.frmContentWidth {
+	padding-top:10px;
+	width:770px;
+	text-align:center;
+}
+.treeLeftStyle {
+	padding-top:5px;
+	padding-bottom:5px;
+	float:left;
+	width:197px;
+	height:325px;
+	text-align:left;
+	border-right: 2px solid #ff9900;
+	overflow: auto;
+}
+.treeRightStyle {
+	padding-top:5px;
+	text-align:center;
+	padding-bottom:5px;
+	float:right;
+	width:570px;
+}
+.rightWidth {
+	width:570px;
+	text-align:center;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+#showChkBox {
+	padding-left:370px;
+	width:200px;
+}
+/*专业信息*/
+/*班级信息*/
+#mesgZyxxInp {
+	width:520px;
+	text-align:left;
+	padding-top:5px;
+	padding-left:50px;
+	padding-bottom:5px;
+}
+/*班级信息*/

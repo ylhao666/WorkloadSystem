@@ -1,0 +1,73 @@
+label {
+	width:20px;
+	line-height:20px;
+}
+.frmWidth {
+	text-align:center;
+	width:770px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.borderTop {
+	border-top: 2px dashed #ff9900;
+}
+.borderBottom {
+	border-bottom: 2px dashed #ff9900;
+}
+.rectStyle {
+	width:150px;
+	text-align:left;
+	height:20px;
+	line-height:20px;
+	border:0;
+}
+.btn {
+	text-align:center;
+	width:80px;
+	height:20px;
+}
+.btnbtn {
+	text-align:center;
+	width:50px;
+	height:20px;
+}
+#showJxblx {
+	width:250px;
+	padding-left:520px;
+}
+#mesgJxbLeft {
+	float:left;
+	width:160px;
+	padding:5px;
+}
+#mesgJxbRight {
+	float:left;
+	width:588px;
+	padding:5px;
+	border-left:2px dashed #ff9900;
+	text-align: justify;
+}
+#treeLeft {
+	float:left;
+	width:248px;
+	height:200px;
+	border:1px solid #ff9900;
+	text-align: justify;
+	overflow: auto;
+}
+#treeMiddle {
+	float:left;
+	width:88px;
+	text-align:center;
+	line-height:50px;
+	text-decoration: none;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+#treeRight {
+	float:left;
+	width:248px;
+	height:200px;
+	border:1px solid #ff9900;
+	text-align: justify;
+}
